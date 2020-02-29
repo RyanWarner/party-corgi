@@ -41,13 +41,9 @@ const MobileNavItems = data => {
           rel='noopener noreferrer'
           sx={navItemStyles}
         >
-<<<<<<< HEAD
-        Join Discord
-=======
-        Discord
->>>>>>> master
+          Join Discord
         </a>
-    </nav>
+      </nav>
     </>
   )
 }
