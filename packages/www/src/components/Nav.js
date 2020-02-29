@@ -57,7 +57,6 @@ const Nav = (data) => {
           rel='noopener noreferrer'
           sx={{
             ...navItemStyles,
-
             '&:hover': {
               backgroundColor: 'blackTransparent',
               color: 'blue'
